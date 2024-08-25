@@ -31,10 +31,10 @@ Here are some screenshots of the Medical Dashboard Application in action:
 
 
 ### 4. Login
-![Login]![SignUp](https://github.com/user-attachments/assets/85840849-af6e-4cf2-841f-891cb69cfb35)
+![Login](https://github.com/user-attachments/assets/85840849-af6e-4cf2-841f-891cb69cfb35)
 
 
-### 5. Database with Encripted Email id of patients.
+### 5. Database with Encrypted Email Id's of patient.
 ![Database](https://github.com/user-attachments/assets/0054e942-5393-45c7-946c-775d947678f3)
 
 
