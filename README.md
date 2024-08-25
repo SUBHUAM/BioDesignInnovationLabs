@@ -9,6 +9,34 @@ This project is a full-stack web application for managing and visualizing medica
 - [Setup Instructions](#setup-instructions)
 - [Assumptions Made](#assumptions-made)
 
+## Screenshots
+
+Here are some screenshots of the Medical Dashboard Application in action:
+
+
+### 1. Dashboard Overview
+![Dashboard Overview](https://github.com/user-attachments/assets/52e258e6-431f-4758-adda-a787ba87d2bd)
+*This is the main dashboard view where users can see an overview of patient data and statistics.*
+
+![Dark Mode Toggle](https://github.com/user-attachments/assets/8b8ece7d-1c3f-4b7f-93e7-ed7972e2b486)
+
+### 2. Tables
+![Doctor Table](https://github.com/user-attachments/assets/b19df863-95ca-466c-9524-6e63b367ce30)
+
+
+### 3. Sign Up
+![Sign Up](https://github.com/user-attachments/assets/1e3b7764-e8e0-4a4d-ba86-2ca8a2267b07)
+
+
+### 4. Login
+![Login]![SignUp](https://github.com/user-attachments/assets/85840849-af6e-4cf2-841f-891cb69cfb35)
+
+
+### 4. Database with Encripted Email id of patients.
+![Database](https://github.com/user-attachments/assets/0054e942-5393-45c7-946c-775d947678f3)
+
+
+
 ## Project Overview
 
 The Medical Dashboard Application provides a secure, responsive platform for managing and visualizing medical data. It is designed to handle patient data efficiently and securely, while offering users an intuitive and interactive interface to monitor and analyze medical information.
