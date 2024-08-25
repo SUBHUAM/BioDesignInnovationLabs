@@ -18,10 +18,12 @@ Here are some screenshots of the Medical Dashboard Application in action:
 ![Dashboard Overview](https://github.com/user-attachments/assets/52e258e6-431f-4758-adda-a787ba87d2bd)
 *This is the main dashboard view where users can see an overview of patient data and statistics.*
 
-![Dark Mode Toggle](https://github.com/user-attachments/assets/8b8ece7d-1c3f-4b7f-93e7-ed7972e2b486)
+![Dark Mode Toggle](https://github.com/user-attachments/assets/fe5cfa89-6ee1-4825-b2cb-cdc98701c44c)
+
 
 ### 2. Tables
-![Doctor Table](https://github.com/user-attachments/assets/b19df863-95ca-466c-9524-6e63b367ce30)
+![Dashboard Table](https://github.com/user-attachments/assets/ee7ea1cc-32a1-4047-b9cb-9b3cec0b4e82)
+
 
 
 ### 3. Sign Up
